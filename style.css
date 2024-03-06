@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(191, 0, 201);
+  }
+
+  
+h2{
+
+  background-color: rgb(0, 237, 110);
+  /* color: rgb(250, 0, 29); */
+  border-color: cyan;
+
+  color: #ff0000;
+}
+
+h1{
+
+  background-color: rgb(0, 237, 110);
+  /* color: rgb(250, 0, 29); */
+  border-color: cyan;
+
+  color: #007362;
+
+margin-top: 100px;
+margin-right: 500px;
+margin-left: 100px;
+margin-bottom: 100px;
+
+}
+
+.divStyle {
+  width: 300px;
+  height: 150px;
+  background-color: blue;
+}
+

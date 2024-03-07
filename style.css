@@ -6,67 +6,39 @@ body {
     text-align: center;
     font-family: "Gruppo", sans-serif;
   }
-
-
-
-  
-  
-
-
 h1{
-
-  
   border-color: cyan;
   background-color: rgb(132, 0, 194);
- 
   font-family: "Audiowide", sans-serif;
-  
-  
-
-margin-top: 0px;
-margin-right: 0px;
-margin-left: 0px;
-margin-bottom: 0px;
-
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 0px;
 }
-
 .divStyle {
   width: 100vw;
   height: 150px;
   background-color: rgb(132, 0, 194);
   align-items: center;
-
 }
-
 .logo{
 align-content: center;
-
 }
-
 .fullwidth{
 
   width: 100vw;
   height: auto;
-
 }
-
 .image1 img{
-
   width: 500px;
   height: auto;
- 
 }
-
-
 .image2 img{
 
   width: 500px;
-  height: auto;
- 
+  height: auto; 
 }
-
 .image3 img{
-
   width: 500px;
   height: auto;
  

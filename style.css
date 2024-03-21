@@ -31,15 +31,27 @@ align-content: center;
 }
 .image1 img{
   width: 500px;
-  height: auto;
+  height: 50vh;
 }
 .image2 img{
 
   width: 500px;
-  height: auto; 
+  height: 50vh; 
 }
 .image3 img{
   width: 500px;
-  height: auto;
+  height: 50vh;
  
+}
+
+.imagegallery img{
+
+  width: 100%;
+  height: auto;
+}
+
+.aboutus img {
+
+  width: 600px;
+  height: auto;
 }

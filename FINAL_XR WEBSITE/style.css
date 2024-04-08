@@ -20,7 +20,11 @@
 
 
 
+.foobg{
 
+    background-color: rgb(14, 0, 21);
+    height: 200px;
+}
 
 
 .bgcolor{
@@ -325,7 +329,7 @@ main p{
 }
 .divStyle {
   width: 100vw;
-  height: 50px;
+  height: 25px;
   background-color: #18031d;
   align-items: center;
   text-align: center;

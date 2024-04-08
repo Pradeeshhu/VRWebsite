@@ -204,12 +204,12 @@ main p {
     display: flex;
     justify-content: space-between;
     margin-bottom: 20px;
-    margin-left: 30px;
+    margin-left: 0px;
 }
 
 .button-buy-now {
     background-color: var(--accent-colors);
-    font-size: 32px;
+    font-size: 26px;
     font-family: 'poppins';
     font-weight: 700;
     color: white;
@@ -223,7 +223,7 @@ main p {
 
 .button-read-more {
     background-color: rgb(4, 85, 192);
-    font-size: 32px;
+    font-size: 26px;
     font-family: 'poppins';
     font-weight: 700;
     color: white;

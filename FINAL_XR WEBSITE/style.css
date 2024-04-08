@@ -280,7 +280,7 @@ main p {
     background-image: url('/assets/images/Info_Box.png'); /* Change 'path_to_your_image.jpg' to the path of your image */
     background-size: cover; /* Adjust the width here */
     background-position: right;
-
+    
     padding: 20px; /* Add padding for better readability */
 }
 

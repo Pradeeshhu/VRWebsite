@@ -151,7 +151,7 @@ main p {
 }
 
 .purple {
-    width: 35vw;
+    width: 25vw;
     height: 50px;
     background-image: linear-gradient(to right, #8a00ac, #ff00ff);
     display: flex; /* Use flexbox */
@@ -168,7 +168,7 @@ main p {
 }
 
 .blue {
-    width: 30vw;
+    width: 20vw;
     height: 50px;
     background-image: linear-gradient(to right, #009fbe, #50d3fb);
     display: flex; /* Use flexbox */
@@ -185,7 +185,7 @@ main p {
 }
 
 .orange {
-    width: 25vw;
+    width: 15vw;
     height: 50px;
     background-image: linear-gradient(to right, #c7003c, rgb(252, 34, 143));
     display: flex; /* Use flexbox */
@@ -223,7 +223,7 @@ main p {
 }
 
 .button-read-more {
-    background-color: rgb(192, 4, 4);
+    background-color: rgb(0, 89, 173);
     font-size: 26px;
     font-family: 'poppins';
     font-weight: 700;

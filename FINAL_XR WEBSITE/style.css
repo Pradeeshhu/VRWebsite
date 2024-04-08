@@ -139,6 +139,7 @@ main h1 {
     margin-bottom: 14px;
 }
 
+
 main p {
     color: var(--font-color);
     font-weight: 200;
@@ -222,7 +223,7 @@ main p {
 }
 
 .button-read-more {
-    background-color: rgb(4, 85, 192);
+    background-color: rgb(192, 4, 4);
     font-size: 26px;
     font-family: 'poppins';
     font-weight: 700;
@@ -230,7 +231,7 @@ main p {
 }
 
 .content {
-    color: rgb(165, 165, 165);
+    color: rgb(180, 180, 180);
 }
 
 .divStyle {
@@ -270,10 +271,17 @@ main p {
 }
 
 .VRintro {
-    margin-top: -200px;
+    margin-top: 20px;
     margin-bottom: 0px;
 }
 
+
+
+.vrimage{
+
+    margin-top: -250px;
+    margin-bottom: px;
+}
 .infobgcolor {
     position: absolute;
     top: -260px;
@@ -291,6 +299,8 @@ main p {
 }
 
 .bgvideo {
+    margin-top: 50px;
+    margin-bottom: 0%px;
     width: 100%;
     height: 100%;
     mask-image: linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0.9) 15%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,0) 100%);

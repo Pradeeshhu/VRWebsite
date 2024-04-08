@@ -314,9 +314,10 @@ main p{
 }
 .divStyle {
   width: 100vw;
-  height: 150px;
+  height: 50px;
   background-color: #8a00ac;
   align-items: center;
+  text-align: center;
 }
 .logo{
 align-content: center;

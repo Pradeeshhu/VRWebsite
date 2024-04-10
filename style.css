@@ -109,7 +109,21 @@
     filter: blur(100px);
     box-shadow: 0 0 50px rgba(255, 255, 255, 0.7), /* White glow */
                 0 0 50px 10px rgba(2, 255, 234, 0.7);
+    animation: colorChange 5s infinite alternate; /* Animation properties */
 }
+
+@keyframes colorChange {
+    0% {
+        background-color: #bc02eb; /* Start color */
+    }
+    50% {
+        background-color: #3462c7; /* Middle color */
+    }
+    100% {
+        background-color: #c52db8; /* End color */
+    }
+}
+
 
 .fishimg {
     position: absolute;
